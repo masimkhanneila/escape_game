@@ -11,3 +11,5 @@ let gameState: GameState = {
     progress : 0,
     status : "playing"
 }
+
+export {gameState};
